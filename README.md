@@ -1,2 +1,2 @@
 # projetoflex
-Projeto Flexbox, desenvolvido para praticar a parte de flexbox do CSS. Seguido conforme tarefa do curso Alura, com algumas alterações.
+Flexbox project, developed to practice the flexbox part of CSS. Followed as assigned in the Alura course, with some changes.
